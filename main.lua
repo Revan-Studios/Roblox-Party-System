@@ -1,5 +1,3 @@
--- Decompiled with the Synapse X Luau decompiler.
-
 while true do
 	wait();
 	if game.Players.LocalPlayer.Character then
